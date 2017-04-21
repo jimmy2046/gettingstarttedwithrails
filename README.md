@@ -15,5 +15,8 @@ A registered user with user name and password can also do the functions of a gue
 * Destroy (delete) an article
 * Destroy a comment
 
+You can clone this project by typing this in your Linux shell:
+$ git clone https://github.com/jimmy2046/gettingstarttedwithrails
+
 Editted on Apr 20, 2017
 
