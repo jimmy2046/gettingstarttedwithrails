@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the finished work from Getting Started with Rails on
+http://guides.rubyonrails.org/getting_started.html
 
-Things you may want to cover:
+A User can access to the blog by either as registered user or as a guest.
+A guest can:
+* View the article list of the blog
+* View the text (details) of each article
+* Add a comment
 
-* Ruby version
+A registered user with user name and password can also do the functions of a guest with these additional functions:
+* Add a new article
+* Edit an article
+* Destroy (delete) an article
+* Destroy a comment
 
-* System dependencies
+Editted on Apr 20, 2017
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
